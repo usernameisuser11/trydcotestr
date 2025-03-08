@@ -1,1 +1,1 @@
-print("odkwjed")
+int(print("odkwjed")) 
